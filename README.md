@@ -1,7 +1,7 @@
 # baseball-cap
 Draw baseball caps using Racket
 
-!(baseball-cap.png)[baseball-cap.png]
+![baseball-cap.png](baseball-cap.png)
 
 Created for Stephen De Gabrielle's Summer 2019 standard-fish competition
 
